@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="140" y1="630" x2="1040" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity=".55"/>
+      <stop offset=".55" stop-color="#A3FF5E" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity=".38"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="700" rx="44" fill="#0B1020"/>
+  <rect x="70" y="70" width="1060" height="560" rx="40" fill="url(#bg)" opacity=".55"/>
+  <rect x="110" y="110" width="980" height="480" rx="34" fill="rgba(255,255,255,.06)" stroke="rgba(255,255,255,.18)" stroke-width="2"/>
+  <rect x="150" y="150" width="380" height="230" rx="26" fill="rgba(0,0,0,.22)" stroke="rgba(255,255,255,.16)" stroke-width="2"/>
+  <rect x="180" y="185" width="220" height="18" rx="9" fill="rgba(255,255,255,.14)"/>
+  <rect x="180" y="220" width="300" height="14" rx="7" fill="rgba(255,255,255,.10)"/>
+  <rect x="180" y="248" width="260" height="14" rx="7" fill="rgba(255,255,255,.09)"/>
+  <rect x="180" y="280" width="200" height="36" rx="16" fill="rgba(34,211,238,.30)"/>
+  <rect x="570" y="150" width="480" height="56" rx="22" fill="rgba(255,255,255,.08)" stroke="rgba(255,255,255,.14)" stroke-width="2"/>
+  <rect x="570" y="230" width="480" height="160" rx="26" fill="rgba(0,0,0,.18)" stroke="rgba(255,255,255,.14)" stroke-width="2"/>
+  <path d="M610 360c55-55 120-70 165-40 45 30 95 18 210-60" stroke="rgba(163,255,94,.55)" stroke-width="6" stroke-linecap="round"/>
+  <rect x="570" y="410" width="230" height="180" rx="26" fill="rgba(0,0,0,.18)" stroke="rgba(255,255,255,.14)" stroke-width="2"/>
+  <rect x="820" y="410" width="230" height="180" rx="26" fill="rgba(0,0,0,.18)" stroke="rgba(255,255,255,.14)" stroke-width="2"/>
+  <rect x="600" y="440" width="170" height="14" rx="7" fill="rgba(255,255,255,.10)"/>
+  <rect x="850" y="440" width="170" height="14" rx="7" fill="rgba(255,255,255,.10)"/>
+</svg>
