@@ -1141,3 +1141,9 @@ img{max-width:100%;display:block}
   display: block;
   filter: invert(1);
 }
+
+.footer__logo {
+  height: 38px;
+  width: auto;
+  filter:invert(1)
+}
