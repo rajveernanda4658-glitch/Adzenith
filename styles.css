@@ -1145,5 +1145,5 @@ img{max-width:100%;display:block}
 .footer__logo {
   height: 38px;
   width: auto;
-  filter:invert(1)
+  filter:invert(1);
 }
