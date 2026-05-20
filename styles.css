@@ -1143,7 +1143,8 @@ img{max-width:100%;display:block}
 }
 
 .footer__logo {
-  height: 38px;
+  height: 42px;
   width: auto;
+  display: block;
   filter:invert(1);
 }
